@@ -57,6 +57,7 @@ I actively explore **web development**, **AI/agents**, and **low-level engineeri
 ### Tech Stack
 
 Go as my main language. I also use Python for data/AI experiments, PostgreSQL for persistence, and REST/HTTP for service design.  
+
 I enjoy concurrency, simple architectures, predictable deployments, and thoughtful CLI UX.
 
 ---
