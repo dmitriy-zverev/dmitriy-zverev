@@ -43,45 +43,6 @@ I enjoy concurrency, simple architectures, predictable deployments, and thoughtf
 
 ---
 
-### Pinned Highlights
-
-<p align="left">
-  <a href="https://github.com/dmitriy-zverev/chirpy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmitriy-zverev&repo=chirpy&theme=tokyonight" alt="chirpy" />
-  </a>
-  <a href="https://github.com/dmitriy-zverev/rss-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmitriy-zverev&repo=rss-cli&theme=tokyonight" alt="rss-cli" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/dmitriy-zverev/pokedex-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmitriy-zverev&repo=pokedex-cli&theme=tokyonight" alt="pokedex-cli" />
-  </a>
-  <a href="https://github.com/dmitriy-zverev/Task-Tracker-CLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmitriy-zverev&repo=Task-Tracker-CLI&theme=tokyonight" alt="Task-Tracker-CLI" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/dmitriy-zverev/static-site-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmitriy-zverev&repo=static-site-generator&theme=tokyonight" alt="static-site-generator" />
-  </a>
-  <a href="https://github.com/dmitriy-zverev/code-ai-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmitriy-zverev&repo=code-ai-agent&theme=tokyonight" alt="code-ai-agent" />
-  </a>
-</p>
-
----
-
-### GitHub Stats
-
-| GitHub Stats | Streak | Top Languages |
-|--------------|--------|----------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=dmitriy-zverev&show_icons=true&theme=tokyonight" alt="GitHub stats" /> | <img src="https://streak-stats.demolab.com?user=dmitriy-zverev&theme=tokyonight" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-zverev&layout=compact&theme=tokyonight" alt="Top Languages" /> |
-
----
-
 ### Get In Touch  
 
 - GitHub: [dmitriy-zverev](https://github.com/dmitriy-zverev)  
