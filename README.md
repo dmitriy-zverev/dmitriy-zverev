@@ -63,5 +63,4 @@ I enjoy concurrency, simple architectures, predictable deployments, and thoughtf
 
 ### Get In Touch  
 
-- GitHub: [dmitriy-zverev](https://github.com/dmitriy-zverev)  
 - Telegram: [@zverev_dmitry](https://t.me/zverev_dmitry)  
