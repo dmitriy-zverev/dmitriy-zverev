@@ -68,4 +68,4 @@ While Go is my primary tool, I also dive into **Python, web development, AI expe
 ### 📫 How to reach me  
 
 - GitHub: [dmitriy-zverev](https://github.com/dmitriy-zverev)  
-- LinkedIn: *(add your link here if you’d like)*  
+- Telegram: [@zverev_dmitry](https://t.me/zverev_dmitry)  
