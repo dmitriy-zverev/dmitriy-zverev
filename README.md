@@ -2,7 +2,7 @@
 
 I'm **Dmitriy Zverev**, a **Golang developer** building reliable backends, fast CLIs, and practical tools.  
 
-I actively explore **web development**, **AI/agents**, and **low-level engineering** concepts — turning learning into working code.
+I actively explore **web development**, **AI/agents**, and **low-level engineering** concepts — turning learning into working code.  
 
 <p align="left">
   <!-- Core Languages -->
@@ -31,7 +31,6 @@ I actively explore **web development**, **AI/agents**, and **low-level engineeri
   <a href="#"><img alt="Coffee" src="https://img.shields.io/badge/Coffee-Driven-6f4e37?logo=buymeacoffee&logoColor=white"></a>
 </p>
 
-
 ---
 
 ### What I Work On
@@ -56,9 +55,10 @@ I actively explore **web development**, **AI/agents**, and **low-level engineeri
 
 ### Tech Stack
 
-Go as my main language. I also use Python for data/AI experiments, PostgreSQL for persistence, and REST/HTTP for service design.  
+Go is my main language for building backends and CLI tools. I also work with Python for data and AI experiments, and C when diving into low-level concepts.  
+For persistence and messaging I use PostgreSQL and RabbitMQ, and for infrastructure I rely on Docker, Kubernetes, and CI/CD with GitHub Actions. In the cloud I work with AWS S3 and CloudFront for storage and distribution.  
 
-I enjoy concurrency, simple architectures, predictable deployments, and thoughtful CLI UX.
+I develop on macOS with a Linux terminal, staying terminal-first while using VSCode as my main editor. My coding approach is guided by KISS, DRY, and Clean Architecture — and powered by coffee.  
 
 ---
 
