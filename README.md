@@ -37,6 +37,7 @@ I actively explore **web development**, **AI/agents**, and **low-level engineeri
 
 - **Backend & Web**  
   [chirpy](https://github.com/dmitriy-zverev/chirpy) — educational HTTP server from scratch in Go
+  [tubely](https://github.com/dmitriy-zverev/tubely) - educational HTTP server that uses AWS S3 and CDN via Yandex Cloud
 
 - **CLI Tools**  
   [pokedex-cli](https://github.com/dmitriy-zverev/pokedex-cli) — terminal Pokédex in Go  
