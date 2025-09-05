@@ -24,7 +24,6 @@ I actively explore **web development**, **AI/agents**, and **low-level engineeri
   <a href="#"><img alt="Terminal" src="https://img.shields.io/badge/Workflow-Terminal-black?logo=gnu-bash&logoColor=white"></a>
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="macOS" src="https://img.shields.io/badge/OS-macOS-000000?logo=apple&logoColor=white"></a>
-  <a href="#"><img alt="Linux Terminal" src="https://img.shields.io/badge/Shell-Linux%20Terminal-FCC624?logo=linux&logoColor=black"></a>
   <a href="#"><img alt="KISS" src="https://img.shields.io/badge/Philosophy-KISS-ff69b4"></a>
   <a href="#"><img alt="DRY" src="https://img.shields.io/badge/Philosophy-DRY-blueviolet"></a>
   <a href="#"><img alt="Clean Architecture" src="https://img.shields.io/badge/Architecture-Clean-brightgreen"></a>
