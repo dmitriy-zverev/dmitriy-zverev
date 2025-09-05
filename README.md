@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-I'm **Dmitriy Zverev**, a **Golang developer** building reliable backends, fast CLIs, and practical tools.  
-I actively explore **web development**, **AI/agents**, and **low-level engineering** concepts — turning learning into working code.  
+I'm **Dmitriy Zverev**, a backend-focused developer with a strong foundation in **Go, Python, and C**.  
+I enjoy building **web servers, CI/CD pipelines, and CLI utilities**, and recently I’ve been working on projects that use **Kubernetes, PostgreSQL, RabbitMQ, GitHub Actions, and AWS/GCP cloud services**.  
+
+I’m looking for my first role in **backend web development**, ideally writing Go or Python in a team where I can contribute quickly and grow. If you’re hiring, let’s chat.  
 
 <p align="left">
   <!-- Core Languages -->
@@ -34,23 +36,29 @@ I actively explore **web development**, **AI/agents**, and **low-level engineeri
 ### Key Projects
 
 - **Backend & Web**  
-  [notely](https://github.com/dmitriy-zverev/notely) — production-ready CI/CD pipeline for a Go web server with Google Cloud integration  
-  [chirpy](https://github.com/dmitriy-zverev/chirpy) — HTTP server from scratch in Go, focused on fundamentals of backend development  
-  [tubely](https://github.com/dmitriy-zverev/tubely) — video management service using AWS S3 for storage and CDN via Yandex Cloud  
+  [notely](https://github.com/dmitriy-zverev/notely) — end-to-end Go web server project with a **CI/CD pipeline**, automated testing, and deployment to **Google Cloud**.  
+  [tubely](https://github.com/dmitriy-zverev/tubely) — video management backend using Go with **AWS S3 for storage** and **CDN (Yandex Cloud)** for distribution.  
+  [chirpy](https://github.com/dmitriy-zverev/chirpy) — an HTTP server built from scratch in Go, demonstrating **routing, middleware, and backend fundamentals**.  
 
 - **CLI Tools**  
-  [pokedex-cli](https://github.com/dmitriy-zverev/pokedex-cli) — interactive Pokédex in the terminal, built in Go  
-  [Task-Tracker-CLI](https://github.com/dmitriy-zverev/Task-Tracker-CLI) — lightweight CLI for managing and tracking tasks  
+  [Task-Tracker-CLI](https://github.com/dmitriy-zverev/Task-Tracker-CLI) — command-line task manager in Go with structured design and persistence.  
+  [pokedex-cli](https://github.com/dmitriy-zverev/pokedex-cli) — interactive Go CLI app integrating with an API, featuring caching and command patterns.  
 
 - **AI & Agents**  
-  [code-ai-agent](https://github.com/dmitriy-zverev/code-ai-agent) — toy code assistant inspired by Claude Code  
+  [code-ai-agent](https://github.com/dmitriy-zverev/code-ai-agent) — experimental Python **AI code assistant** inspired by Claude Code, exploring agent-based design.  
 
 ---
 
 ### Tech Stack
 
-Go is my main language for building backends and CLI tools. I also use Python for data and AI experiments, and C when diving into low-level concepts. 
+- **Languages**: Go, Python, C  
+- **Databases & Messaging**: PostgreSQL, RabbitMQ  
+- **DevOps & Cloud**: Docker, Kubernetes, GitHub Actions, AWS S3, AWS CloudFront, GCP  
+- **Environment**: macOS with Linux terminal, VSCode, terminal-first workflow  
+- **Philosophy**: KISS, DRY, Clean Architecture — powered by coffee ☕  
 
-For persistence and messaging I use PostgreSQL and RabbitMQ, and for infrastructure I rely on Docker, Kubernetes, and CI/CD with GitHub Actions. In the cloud I work with AWS S3 and CloudFront for storage and distribution.  
+---
 
-I develop on macOS with a Linux terminal, staying terminal-first while using VSCode as my main editor. My coding approach is guided by KISS, DRY, an
+### Get In Touch  
+
+- Telegram: [@zverev_dmitry](https://t.me/zverev_dmitry)  
