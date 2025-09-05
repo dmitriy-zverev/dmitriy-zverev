@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm **Dmitriy Zverev**, a **Golang developer** building reliable backends, fast CLIs, and practical tools.  
-
 I actively explore **web development**, **AI/agents**, and **low-level engineering** concepts — turning learning into working code.  
 
 <p align="left">
@@ -32,38 +31,26 @@ I actively explore **web development**, **AI/agents**, and **low-level engineeri
 
 ---
 
-### What I Work On
+### Key Projects
 
 - **Backend & Web**  
-  [notely](https://github.com/dmitriy-zverev/notely) — fully working CI/CD pipeline for a web server with Google Cloud integration\
-  [chirpy](https://github.com/dmitriy-zverev/chirpy) — educational HTTP server from scratch in Go  
-  [tubely](https://github.com/dmitriy-zverev/tubely) — HTTP server for video management that uses AWS S3 and CDN via Yandex Cloud
-  
+  [notely](https://github.com/dmitriy-zverev/notely) — production-ready CI/CD pipeline for a Go web server with Google Cloud integration  
+  [chirpy](https://github.com/dmitriy-zverev/chirpy) — HTTP server from scratch in Go, focused on fundamentals of backend development  
+  [tubely](https://github.com/dmitriy-zverev/tubely) — video management service using AWS S3 for storage and CDN via Yandex Cloud  
 
 - **CLI Tools**  
-  [pokedex-cli](https://github.com/dmitriy-zverev/pokedex-cli) — terminal Pokédex in Go  
-  [Task-Tracker-CLI](https://github.com/dmitriy-zverev/Task-Tracker-CLI) — minimal task tracking in the terminal
+  [pokedex-cli](https://github.com/dmitriy-zverev/pokedex-cli) — interactive Pokédex in the terminal, built in Go  
+  [Task-Tracker-CLI](https://github.com/dmitriy-zverev/Task-Tracker-CLI) — lightweight CLI for managing and tracking tasks  
 
 - **AI & Agents**  
-  [code-ai-agent](https://github.com/dmitriy-zverev/code-ai-agent) — toy code assistant inspired by Claude Code
-
-- **Static Generation**  
-  [static-site-generator](https://github.com/dmitriy-zverev/static-site-generator) — Markdown → HTML generator in Python
-
-- **Data Utilities**  
-  [rss-cli](https://github.com/dmitriy-zverev/rss-cli) — RSS feed aggregator in Go, stores to PostgreSQL
+  [code-ai-agent](https://github.com/dmitriy-zverev/code-ai-agent) — toy code assistant inspired by Claude Code  
 
 ---
 
 ### Tech Stack
 
-Go is my main language for building backends and CLI tools. I also work with Python for data and AI experiments, and C when diving into low-level concepts.  
+Go is my main language for building backends and CLI tools. I also use Python for data and AI experiments, and C when diving into low-level concepts. 
+
 For persistence and messaging I use PostgreSQL and RabbitMQ, and for infrastructure I rely on Docker, Kubernetes, and CI/CD with GitHub Actions. In the cloud I work with AWS S3 and CloudFront for storage and distribution.  
 
-I develop on macOS with a Linux terminal, staying terminal-first while using VSCode as my main editor. My coding approach is guided by KISS, DRY, and Clean Architecture — and powered by coffee.  
-
----
-
-### Get In Touch  
-
-- Telegram: [@zverev_dmitry](https://t.me/zverev_dmitry)  
+I develop on macOS with a Linux terminal, staying terminal-first while using VSCode as my main editor. My coding approach is guided by KISS, DRY, an
