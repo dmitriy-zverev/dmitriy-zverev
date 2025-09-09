@@ -36,9 +36,9 @@ I’m looking for my first role in **backend web development**, ideally writing 
 ### Key Projects
 
 - **Backend & Web**  
-  [notely](https://github.com/dmitriy-zverev/notely) — end-to-end Go web server project with a **CI/CD pipeline**, automated testing, and deployment to **Google Cloud**.  
-  [tubely](https://github.com/dmitriy-zverev/tubely) — video management backend using Go with **AWS S3 for storage** and **CDN (Yandex Cloud)** for distribution.  
-  [chirpy](https://github.com/dmitriy-zverev/chirpy) — an HTTP server built from scratch in Go, demonstrating **routing, middleware, and backend fundamentals**.  
+  [Notely](https://github.com/dmitriy-zverev/notely) — end-to-end Go web server project with a **CI/CD pipeline**, automated testing, and deployment to **Google Cloud**.  
+  [Tubely](https://github.com/dmitriy-zverev/tubely) — video management backend using Go with **AWS S3 for storage** and **CDN (Yandex Cloud)** for distribution.  
+  [Chirpy](https://github.com/dmitriy-zverev/chirpy) — an HTTP server built from scratch in Go, demonstrating **routing, middleware, and backend fundamentals**.  
 
 - **CLI Tools**  
   [Task Tracker CLI](https://github.com/dmitriy-zverev/Task-Tracker-CLI) — command-line task manager in Go with structured design and persistence.  
@@ -46,7 +46,7 @@ I’m looking for my first role in **backend web development**, ideally writing 
   [Github Activity CLI](https://github.com/dmitriy-zverev/github-activity) - command-line tool for looking through github activities of a user.
 
 - **AI & Agents**  
-  [code-ai-agent](https://github.com/dmitriy-zverev/code-ai-agent) — experimental Python **AI code assistant** inspired by Claude Code, exploring agent-based design.  
+  [CodeWhisperer](https://github.com/dmitriy-zverev/code-ai-agent) — experimental Python **AI code assistant** inspired by Claude Code, exploring agent-based design.  
 
 ---
 
