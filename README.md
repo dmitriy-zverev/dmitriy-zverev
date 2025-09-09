@@ -41,8 +41,9 @@ I’m looking for my first role in **backend web development**, ideally writing 
   [chirpy](https://github.com/dmitriy-zverev/chirpy) — an HTTP server built from scratch in Go, demonstrating **routing, middleware, and backend fundamentals**.  
 
 - **CLI Tools**  
-  [Task-Tracker-CLI](https://github.com/dmitriy-zverev/Task-Tracker-CLI) — command-line task manager in Go with structured design and persistence.  
-  [pokedex-cli](https://github.com/dmitriy-zverev/pokedex-cli) — interactive Go CLI app integrating with an API, featuring caching and command patterns.  
+  [Task Tracker CLI](https://github.com/dmitriy-zverev/Task-Tracker-CLI) — command-line task manager in Go with structured design and persistence.  
+  [Pokedex CLI](https://github.com/dmitriy-zverev/pokedex-cli) — interactive Go CLI app integrating with an API, featuring caching and command patterns.\
+  [Github Activity CLI](https://github.com/dmitriy-zverev/github-activity) - command-line tool for looking through github activities of a user.
 
 - **AI & Agents**  
   [code-ai-agent](https://github.com/dmitriy-zverev/code-ai-agent) — experimental Python **AI code assistant** inspired by Claude Code, exploring agent-based design.  
