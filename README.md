@@ -8,6 +8,7 @@ I’m looking for my first role in **backend web development**, ideally writing 
 <p align="left">
   <!-- Core Languages -->
   <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white" /></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white"></a>
   <a href="https://en.cppreference.com/w/c"><img alt="C" src="https://img.shields.io/badge/C-Language-A8B9CC?logo=c&logoColor=white"></a>
 
