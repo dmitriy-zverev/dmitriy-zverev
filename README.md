@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Dmitriy Zverev**, a backend-focused developer with a strong foundation in **Go, Python, and C**.  
+I'm **Dmitriy Zverev**, a backend-focused developer with a strong foundation in **Python, Go, and C**.  
 I enjoy building **web servers, CI/CD pipelines, and CLI utilities**, and recently I’ve been working on projects that use **Kubernetes, PostgreSQL, RabbitMQ, GitHub Actions, and AWS/GCP cloud services**.  
 
 I’m looking for my first role in **backend web development**, ideally writing Go or Python in a team where I can contribute quickly and grow. If you’re hiring, let’s chat.  
@@ -35,7 +35,8 @@ I’m looking for my first role in **backend web development**, ideally writing 
 
 ### Key Projects
 
-- **Backend & Web**  
+- **Backend & Web**
+  [Blogicum](https://github.com/dmitriy-zverev/blogicum) - A full-featured blogging platform built with **Django** that allows users to create, edit, and share blog posts with images, comments, and categorization \
   [Weather API](https://github.com/dmitriy-zverev/weather-api) - high-performance and open-source weather API using **Docker and Redis** \
   [Blog API](https://github.com/dmitriy-zverev/blog-api) - A RESTful API for a personal blogging platform built with **Go and PostgreSQL** \
   [Notely](https://github.com/dmitriy-zverev/notely) — end-to-end Go web server project with a **CI/CD pipeline**, automated testing, and deployment to **Google Cloud**.  \
