@@ -7,8 +7,10 @@ I’m looking for my first role in **backend web development**, ideally writing 
 
 <p align="left">
   <!-- Core Languages -->
-  <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go&logoColor=white"></a>
+  <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-5.1+-092E20?logo=django&logoColor=white"></a>
+  <a href="https://www.django-rest-framework.org/"><img alt="Django REST Framework" src="https://img.shields.io/badge/DRF-3.15+-A30000?logo=django&logoColor=white"></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white"></a>
+  <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go&logoColor=white"></a>
   <a href="https://en.cppreference.com/w/c"><img alt="C" src="https://img.shields.io/badge/C-Language-A8B9CC?logo=c&logoColor=white"></a>
 
   <!-- Databases / Infra -->
