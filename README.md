@@ -3,7 +3,7 @@
 I'm **Dmitriy Zverev**, a backend-focused developer with a strong foundation in **Python, Go, and C**.  
 I enjoy building **web servers, CI/CD pipelines, and CLI utilities**, and recently I’ve been working on projects that use **Kubernetes, PostgreSQL, RabbitMQ, GitHub Actions, and AWS/GCP cloud services**.  
 
-I’m looking for my first role in **backend web development**, ideally writing Go or Python in a team where I can contribute quickly and grow. If you’re hiring, let’s chat.  
+I’m looking for my first role in **backend web development**, ideally writing Python or Go in a team where I can contribute quickly and grow. If you’re hiring, let’s chat.  
 
 <p align="left">
   <!-- Core Languages -->
