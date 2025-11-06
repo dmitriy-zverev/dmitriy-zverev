@@ -38,6 +38,7 @@ I’m looking for my first role in **backend web development**, ideally writing 
 ### Key Projects
 
 - **Backend & Web** \
+  [YaMDB API](https://github.com/dmitriy-zverev/yamdb) - YaMDb API is a RESTful API for collecting user reviews about titles (films, books, music) using **Django REST Framework** \
   [YaTube API](https://github.com/dmitriy-zverev/yatube_api) - REST API for the social network YaTube built with **Django REST Framework** - a platform for publishing posts, organizing them into groups, and commenting \
   [Blogicum](https://github.com/dmitriy-zverev/blogicum) - A full-featured blogging platform built with **Django** that allows users to create, edit, and share blog posts with images, comments, and categorization \
   [Weather API](https://github.com/dmitriy-zverev/weather-api) - high-performance and open-source weather API using **Docker and Redis** \
