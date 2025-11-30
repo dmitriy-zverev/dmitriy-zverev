@@ -38,6 +38,7 @@ I’m looking for my first role in **backend web development**, ideally writing 
 ### Key Projects
 
 - **Backend & Web** \
+  [Foodgram](https://github.com/dmitriy-zverev/foodgram) - Foodgram is a full-stack web application that allows users to share recipes using **Django REST Framework, Docker, CI/CD** \
   [Kittygram](https://github.com/dmitriy-zverev/kittygram-docker) - Kittygram is a production-ready social network application for cat lovers using **Django, Docker, CI/CD** \
   [YaMDB API](https://github.com/dmitriy-zverev/yamdb) - YaMDb API is a RESTful API for collecting user reviews about titles (films, books, music) using **Django REST Framework** \
   [YaTube API](https://github.com/dmitriy-zverev/yatube_api) - REST API for the social network YaTube built with **Django REST Framework** - a platform for publishing posts, organizing them into groups, and commenting \
