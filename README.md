@@ -47,7 +47,7 @@ I’m looking for my first role in **backend web development**, ideally writing 
   [Blog API](https://github.com/dmitriy-zverev/blog-api) - A RESTful API for a personal blogging platform built with **Go and PostgreSQL** \
   [Notely](https://github.com/dmitriy-zverev/notely) — end-to-end Go web server project with a **CI/CD pipeline**, automated testing, and deployment to **Google Cloud**.  \
   [Tubely](https://github.com/dmitriy-zverev/tubely) — video management backend using Go with **AWS S3 for storage** and **CDN (Yandex Cloud)** for distribution.  \
-  [Chirpy](https://github.com/dmitriy-zverev/chirpy) — an HTTP server built from scratch in Go, demonstrating **routing, middleware, and backend fundamentals**. \
+  [Link Shortener API](https://github.com/dmitriy-zverev/link-shortener) — A **Django REST Framework-based** URL shortening service that allows users to create, manage, and track shortened URLs. \
   [Peril](https://github.com/dmitriy-zverev/peril) - a distributed real-time strategy game built with **Go and RabbitMQ**, featuring pub/sub messaging architecture.
 
 - **CLI Tools**  
