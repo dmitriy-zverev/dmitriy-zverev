@@ -38,11 +38,11 @@ I’m looking for my first role in **backend web development**, ideally writing 
 ### Key Projects
 
 - **Backend & Web** \
+  [Deribit Crypto Client](https://github.com/dmitriy-zverev/crypto-client) - A small backend service that periodically fetches index prices from the Deribit exchange and exposes stored data via a **FastAPI** HTTP API \
   [Foodgram](https://github.com/dmitriy-zverev/foodgram) - Foodgram is a full-stack web application that allows users to share recipes using **Django REST Framework, Docker, CI/CD** \
   [Kittygram](https://github.com/dmitriy-zverev/kittygram-docker) - Kittygram is a production-ready social network application for cat lovers using **Django, Docker, CI/CD** \
   [YaMDB API](https://github.com/dmitriy-zverev/yamdb) - YaMDb API is a RESTful API for collecting user reviews about titles (films, books, music) using **Django REST Framework** \
   [YaTube API](https://github.com/dmitriy-zverev/yatube_api) - REST API for the social network YaTube built with **Django REST Framework** - a platform for publishing posts, organizing them into groups, and commenting \
-  [Blogicum](https://github.com/dmitriy-zverev/blogicum) - A full-featured blogging platform built with **Django** that allows users to create, edit, and share blog posts with images, comments, and categorization \
   [Link Shortener API](https://github.com/dmitriy-zverev/link-shortener) — A **Django REST Framework-based** URL shortening service that allows users to create, manage, and track shortened URLs. \
   [Weather API](https://github.com/dmitriy-zverev/weather-api) - high-performance and open-source weather API using **Docker and Redis** \
   [Blog API](https://github.com/dmitriy-zverev/blog-api) - A RESTful API for a personal blogging platform built with **Go and PostgreSQL** \
