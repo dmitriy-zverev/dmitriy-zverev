@@ -50,11 +50,8 @@ I’m looking for my first role in **backend web development**, ideally writing 
   [Tubely](https://github.com/dmitriy-zverev/tubely) — video management backend using Go with **AWS S3 for storage** and **CDN (Yandex Cloud)** for distribution.  \
   [Peril](https://github.com/dmitriy-zverev/peril) - a distributed real-time strategy game built with **Go and RabbitMQ**, featuring pub/sub messaging architecture.
 
-- **CLI Tools**  
-  [Task Tracker CLI](https://github.com/dmitriy-zverev/Task-Tracker-CLI) — command-line task manager in Go with structured design and persistence.  
-  [Pokedex CLI](https://github.com/dmitriy-zverev/pokedex-cli) — interactive Go CLI app integrating with an API, featuring caching and command patterns.\
-  [Github Activity CLI](https://github.com/dmitriy-zverev/github-activity) - command-line tool for looking through github activities of a user.\
-  [Expense Tracker CLI](https://github.com/dmitriy-zverev/expense-tracker) - powerful, lightweight command-line expense tracking application built with Go.
+- **CLI Tools** \
+  [Contacts Parser](https://github.com/dmitriy-zverev/contacts-parser) - A production-ready contacts parser that crawls a site, extracts emails and Russian phone numbers, and returns structured results. \
 
 - **AI & Agents**  
   [CodeWhisperer](https://github.com/dmitriy-zverev/code-ai-agent) — experimental Python **AI code assistant** inspired by Claude Code, exploring agent-based design.  
