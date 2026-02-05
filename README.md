@@ -42,8 +42,9 @@ I’m looking for my first role in **backend web development**, ideally writing 
   [Foodgram](https://github.com/dmitriy-zverev/foodgram) - Foodgram is a full-stack web application that allows users to share recipes using **Django REST Framework, Docker, CI/CD**. \
   [YaMDB API](https://github.com/dmitriy-zverev/yamdb) - YaMDb API is a RESTful API for collecting user reviews about titles (films, books, music) using **Django REST Framework**.
 
-- **CLI Tools** \
-  [Contacts Parser](https://github.com/dmitriy-zverev/contacts-parser) - A production-ready contacts parser that crawls a site, extracts emails and Russian phone numbers, and returns structured results.
+- **CLI Tools & Bots** \
+  [Contacts Parser](https://github.com/dmitriy-zverev/contacts-parser) - A production-ready contacts parser that crawls a site, extracts emails and Russian phone numbers, and returns structured results. \
+  [Analytics Bot](https://github.com/dmitriy-zverev/analytics-bot) - A Telegram bot that answers analytics questions about video data using natural language.
 
 - **AI & Agents**  
   [CodeWhisperer](https://github.com/dmitriy-zverev/code-ai-agent) — experimental Python **AI code assistant** inspired by Claude Code, exploring agent-based design.  
